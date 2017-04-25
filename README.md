@@ -1,4 +1,4 @@
-[![Dependency Status](https://www.versioneye.com/user/projects/58f5d7a4d83fb9005051c55b/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58f5d7a4d83fb9005051c55b)
+[![Dependency Status](https://www.versioneye.com/user/projects/58fec8db710da23fe20fe996/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58fec8db710da23fe20fe996) [![Total Downloads](https://poser.pugx.org/sctv/bugsnag/downloads)](https://packagist.org/packages/sctv/bugsnag) [![Build Status](https://travis-ci.org/showcase-tv/bugsnag.svg?branch=master)](https://travis-ci.org/showcase-tv/bugsnag)
 
 ## 概要
 ログ収集サービスのBugsnagをCodeIgniter等に
