@@ -1,0 +1,30 @@
+{
+    "name": "sctv/bugsnag",
+    "description": "Bugsnag Support Tool",
+    "type": "",
+    "authors": [
+        {
+            "name": "SCTV",
+            "email": "harmony@showcase-tv.com"
+        }
+    ],
+    "keywords": [
+        "codeigniter",
+        "bugsnag"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "bugsnag/bugsnag": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*",
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "SCTV\\": ""
+        }
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpnit backupGlobals="true" colors="true" bootstrap="tests/bootstrap.php">
+    <testsuites>
+        <testsuite name="AllTest Suite">
+            <directory suffix="Test.php">./tests/</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+    <whitelist processUncoveredFilesFromWhitelist="false">
+        <directory suffix=".php">./</directory>
+        <exclude>
+            <directory>./tests/</directory>
+            <directory>./vendor/</directory>
+        </exclude>
+    </whitelist>
+    </filter>
+</phpnit>
