@@ -1,4 +1,4 @@
-[![Dependency Status](https://www.versioneye.com/user/projects/58fec8db710da23fe20fe996/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58fec8db710da23fe20fe996) [![Total Downloads](https://poser.pugx.org/sctv/bugsnag/downloads)](https://packagist.org/packages/sctv/bugsnag) [![Build Status](https://travis-ci.org/showcase-tv/bugsnag.svg?branch=master)](https://travis-ci.org/showcase-tv/bugsnag)
+[![Dependency Status](https://www.versioneye.com/user/projects/58fec8db710da23fe20fe996/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58fec8db710da23fe20fe996) [![Total Downloads](https://poser.pugx.org/sctv/bugsnag/downloads)](https://packagist.org/packages/sctv/bugsnag) [![Build Status](https://travis-ci.org/showcase-tv/bugsnag.svg?branch=master)](https://travis-ci.org/showcase-tv/bugsnag) [![Coverage Status](https://coveralls.io/repos/github/showcase-tv/bugsnag/badge.svg?branch=master)](https://coveralls.io/github/showcase-tv/bugsnag?branch=master) [![Code Climate](https://codeclimate.com/github/showcase-tv/bugsnag/badges/gpa.svg)](https://codeclimate.com/github/showcase-tv/bugsnag)
 
 ## 概要
 ログ収集サービスのBugsnagをCodeIgniter等に
