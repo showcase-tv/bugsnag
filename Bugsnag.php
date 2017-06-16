@@ -24,6 +24,7 @@ class Bugsnag
         if (self::$instance === null) {
             self::$instance = new Bugsnag();
         }
+
         return self::$instance;
     }
 
@@ -39,6 +40,7 @@ class Bugsnag
             $this->client = Client::make($apiKey);
             Handler::register($this->client);
         }
+
         return $this->client;
     }
 
